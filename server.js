@@ -33,7 +33,7 @@ app.use(
     saveUninitialized: false //required
   })
 );
-// hhdkfjlksdjfl;sdjgkl;fdsjgl;adfkjgkl;aj
+// hhdkfjlksdjfl;sdjgkl;fdsjgl;adfkjgkl;ajhh
 // Passport
 app.use(passport.initialize());
 app.use(passport.session()); // calls the deserializeUser
