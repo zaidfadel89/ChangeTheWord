@@ -59,6 +59,7 @@
     "url": "https://github.com/zaid.fadel89/ChangeTheWord/issues"
   },
   "devDependencies": {
-    "gh-pages": "^5.0.0"
+    "gh-pages": "^5.0.0",
+    "react-hot-loader": "^4.13.1"
   }
 }
