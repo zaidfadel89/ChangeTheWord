@@ -28,4 +28,5 @@ jobs:
         cache: 'npm'
     
     - run: npm install express
+    - run: morgan 
     - run: node server.js 
