@@ -9,7 +9,7 @@ jobs:
       - name: Setup NodeJs
         uses: actions/setup-node@v1
         with:
-          node-version: "2.316.1"
+          node-version: "18.x"
           
       - name: Install server dependencies
         run: npm install
