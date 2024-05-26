@@ -8,7 +8,7 @@ Then this web application we provide is the best fit for you!
 Find your cozy Apartment to stay for the night.
 This Web application helps user finding the perfect rental apartments. Also you can find your next rental from search view in your targeted area anywhere in Chicago area.
 
-[Live Link](https://glacial-plateau-39877.herokuapp.com/)
+[Live Link](https://zaidfadel89.github.io/ChangeTheWord/)
 
 ## Login Page 
 
